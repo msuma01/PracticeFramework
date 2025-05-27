@@ -19,6 +19,7 @@ public class LoginPage {
 	  private By  forgotPwdLink = By.linkText("Forgotten Password");
 	  private By registerLink = By.linkText("Register");
 	  private By logo = By.cssSelector("img.img-responsive");
+	  private By lakki =By.xpath("sjdkfjsdfkjdxfsdkdf");
 	
 	//2.Public Page Constructor...
 	public LoginPage(WebDriver driver) {
