@@ -4,6 +4,8 @@ public class AppLogin {
 	String name="Vani";
 	public void login() {
 		System.out.println("Vani ---Login");
+		System.out.println("Suma==login");
+		String i="Sine";
 	}
 
 }
